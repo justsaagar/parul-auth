@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93195601163",
+    "project_id": "parul-auth",
+    "storage_bucket": "parul-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93195601163:android:88517260b7b01a276e0e0e",
+        "android_client_info": {
+          "package_name": "com.parul.auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvYl1VuE4KW0Wur-NwNUy5eil7cbhGfOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
